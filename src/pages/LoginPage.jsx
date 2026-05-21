@@ -29,7 +29,7 @@ export default function LoginPage() {
         <div className="login-header">
           <div className="login-logo">
             <span className="logo-icon">✦</span>
-            <span className="logo-text">Aksara</span>
+            <span className="logo-text">KELOMPOK 3</span>
           </div>
           <h1 className="login-title">Selamat Datang</h1>
           <p className="login-subtitle">
